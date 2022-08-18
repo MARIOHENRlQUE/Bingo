@@ -1,0 +1,13 @@
+body{
+    background-color: #243D83;
+}
+.center{
+    padding: 100px;
+    text-align: center;
+    margin-top: 300px;
+    width: auto;
+    background-color: #6592CF;
+    display:flexbox;
+    margin: 300px 700px 300px 700px;
+    border-radius:10%;
+}
